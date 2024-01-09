@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T19:20:48 IST" name="Suite" finished-at="2024-01-08T19:20:48 IST" duration-ms="260">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T19:20:48 IST" name="Test" finished-at="2024-01-08T19:20:48 IST" duration-ms="260">
+      <class name="Second_Script.Login_Page_Mvn_">
+        <test-method signature="EmptyFields()[pri:0, instance:Second_Script.Login_Page_Mvn_@7d0b7e3c]" started-at="2024-01-08T19:20:48 IST" name="EmptyFields" finished-at="2024-01-08T19:20:48 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyFields -->
+        <test-method signature="InvalidCredentials()[pri:0, instance:Second_Script.Login_Page_Mvn_@7d0b7e3c]" started-at="2024-01-08T19:20:48 IST" name="InvalidCredentials" finished-at="2024-01-08T19:20:48 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidCredentials -->
+        <test-method signature="RememberMeOptions()[pri:0, instance:Second_Script.Login_Page_Mvn_@7d0b7e3c]" started-at="2024-01-08T19:20:48 IST" name="RememberMeOptions" finished-at="2024-01-08T19:20:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RememberMeOptions -->
+        <test-method signature="ValidCredentials()[pri:0, instance:Second_Script.Login_Page_Mvn_@7d0b7e3c]" started-at="2024-01-08T19:20:48 IST" name="ValidCredentials" finished-at="2024-01-08T19:20:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidCredentials -->
+      </class> <!-- Second_Script.Login_Page_Mvn_ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-01-08T19:20:48 IST" name="Suite (0)" finished-at="2024-01-08T19:20:48 IST" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T19:20:48 IST" name="Test" finished-at="2024-01-08T19:20:48 IST" duration-ms="25">
+      <class name="Third_Script.Home_Page_Mvn_">
+        <test-method signature="ContentsDisplay()[pri:0, instance:Third_Script.Home_Page_Mvn_@7ce026d3]" started-at="2024-01-08T19:20:48 IST" name="ContentsDisplay" finished-at="2024-01-08T19:20:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContentsDisplay -->
+        <test-method signature="NavigationLinks()[pri:0, instance:Third_Script.Home_Page_Mvn_@7ce026d3]" started-at="2024-01-08T19:20:48 IST" name="NavigationLinks" finished-at="2024-01-08T19:20:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationLinks -->
+        <test-method signature="SuccessfulHomepageAccess()[pri:0, instance:Third_Script.Home_Page_Mvn_@7ce026d3]" started-at="2024-01-08T19:20:48 IST" name="SuccessfulHomepageAccess" finished-at="2024-01-08T19:20:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessfulHomepageAccess -->
+      </class> <!-- Third_Script.Home_Page_Mvn_ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2024-01-08T19:20:49 IST" name="Master Suite" finished-at="2024-01-08T19:20:49 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+</testng-results>
